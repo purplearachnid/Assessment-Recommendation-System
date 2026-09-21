@@ -135,14 +135,14 @@ Modular architecture
 Each phase can be independently tested or extended
 
 
-SHL-Assessment-Recommender/
+Assessment-Recommendation-System/
 │
 ├── README.md
 ├── app.py
 ├── assessments.json
 ├── embeddings.npy
 ├── submission.csv
-└── SHL_Assessment_Recommender.ipynb
+└── assessment.ipynb
 
 
 pip install fastapi uvicorn sentence-transformers scikit-learn
